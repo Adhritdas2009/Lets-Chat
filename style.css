@@ -1,0 +1,17 @@
+#login_btn{
+    width:200px;
+}
+
+#login_inp{
+    width:300px;
+}
+
+#login_div{
+    padding-top: 100px;
+    color:springgreen;
+}
+
+#logo{
+    border-radius: 100px;
+    border:springgreen 2px;
+}
